@@ -6,5 +6,6 @@
 
 build/
 
-.fvm/
+.fvm
 .vscode
+.idea
